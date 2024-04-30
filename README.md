@@ -1,3 +1,7 @@
+# Origin
+
+The original code was written by [N'Dah Jean Kouagou](https://github.com/Jean-KOUAGOU/1st-place-solution-single-cell-pbs).  
+
 # 1st-place-solution-single-cell-pbs
 This repository implements the 1st place solution for the single cell perturbations problem [open-problems-single-cell-perturbations](https://www.kaggle.com/competitions/open-problems-single-cell-perturbations/overview)
 
